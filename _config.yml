@@ -1,9 +1,11 @@
 title: John Doe # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Entry level data scientist 
   <br><br>
-  Second description 
+  Motivated entry-level data scientist who is passionate about contributing to a cause.
+  Seeking to build models that translate data points into business insights.
+  Relevant skills include machine learning, problem solving, programming, and creative thinking. 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
